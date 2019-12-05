@@ -1,0 +1,9 @@
+#allaboutfrogs {
+    display:grid;
+    grid-template-rows:30% 70%;
+    grid-template-columns:50% 50%;
+}
+
+.frogimagestop {
+display:grid;
+}
